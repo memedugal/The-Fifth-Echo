@@ -3,11 +3,6 @@ import sys
 import math
 import copy
 
-# DESCRIPTION:
-"""
-BE CAREFUL, OR YOU MIGHT CAUSE A TIME PARADOX.
-"""
-
 # Initialize pygame
 pygame.init()
 
